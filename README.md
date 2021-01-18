@@ -1,5 +1,5 @@
 
-<p align="center"><a href="" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGKZ1LP0HRNbTMLAGNO_-_qULcZC4hIY8k7w&usqp=CAU title="Covid-19-tracker" alt="Covid-19-tracker"></a>
+<p align="center"><a href="" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGKZ1LP0HRNbTMLAGNO_-_qULcZC4hIY8k7w&usqp=CAU" title="Covid-19-tracker" alt="Covid-19-tracker"></a>
 </p>
 
 
