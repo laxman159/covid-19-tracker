@@ -1,9 +1,5 @@
-![covid](https://user-images.githubusercontent.com/56950807/103625742-6af81f80-4f61-11eb-891d-13c2c923af66.png)
 
-
-
-
-<p align="center"><a href="" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeEygac0tVAaBJ4OzYdJnSo2nPGh2ycVUOIQ&usqp=CAU" title="Breaking Bad Cards" alt="Breaking bad"></a>
+<p align="center"><a href="" target="_blank"><img src="https://thumbs-prod.si-cdn.com/wqFmaTG7lqTjA5bwmFgX1OMQ7pA=/1072x720/filters:no_upscale()/https://public-media.si-cdn.com/filer/79/4a/794a7e74-8c99-4fde-abcd-a303bc302ba1/sars-cov-19.jpg" title="Covid-19-tracker" alt="Covid-19-tracker"></a>
 </p>
 
 
