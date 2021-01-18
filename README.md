@@ -1,5 +1,5 @@
 
-<p align="center"><a href="" target="_blank"><img src="https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-asia.com/headlines/markets/covid-19-s-crop-crisis-pandemic-poses-major-risk-to-asia-s-food-supply-and-trade-expert/10911691-1-eng-GB/COVID-19-s-crop-crisis-Pandemic-poses-major-risk-to-Asia-s-food-supply-and-trade-expert.jpg" title="Covid-19-tracker" alt="Covid-19-tracker"></a>
+<p align="center"><a href="" target="_blank"><img src="https://peacechild.org/wp-content/uploads/covid-19-coronavirus-logo.jpg" title="Covid-19-tracker" alt="Covid-19-tracker"></a>
 </p>
 
 
@@ -15,7 +15,7 @@
 
  
   
-  LIVE: (https://laxman159.github.io/covid-19-tracker/)
+  LIVE: (https://covid-19-tracker-cf9e8.web.app/)
 
 ## Features
 - Live data 
